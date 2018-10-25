@@ -1,8 +1,8 @@
 # Horrible Resume, really.
 > Just another typical resume website.
-![alt text](https://github.com/ShibeMaster/BestResume/img/Capture.png "Header")
-[Website Here](https://vibrant-thompson-82aa7b.netlify.com/)
+![alt text](https://github.com/ShibeMaster/BestResume/tree/master/img/Capture.png "Header")
 
+[Website Here](https://vibrant-thompson-82aa7b.netlify.com/)
 
 Literally took all the common aesthetic website and merged them together, add a little bit of duct tape and terrible coding.
 
